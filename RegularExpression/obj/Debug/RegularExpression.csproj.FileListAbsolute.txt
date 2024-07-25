@@ -1,0 +1,7 @@
+C:\Users\GioLGA\Desktop\DotNet1\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+C:\Users\GioLGA\Desktop\DotNet1\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+C:\Users\GioLGA\Desktop\DotNet1\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+C:\Users\GioLGA\Desktop\DotNet1\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\DotNet1\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\DotNet1\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+C:\Users\GioLGA\Desktop\DotNet1\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb
